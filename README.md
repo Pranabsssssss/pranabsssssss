@@ -2,43 +2,28 @@
 
 > Building things that probably shouldn't work, until they do.
 
-I'm a student developer, robotics enthusiast, and founder who spends most of his time turning random ideas into real projects.
+I'm a student developer, robotics enthusiast, and founder who spends most of my time building products, experimenting with technology, and turning ideas into reality.
 
-Sometimes that means building websites at 2 AM.
-Sometimes it means designing robotic systems.
-Sometimes it means breaking production and fixing it five minutes later.
+From full-stack web applications to robotics systems, I enjoy creating projects that solve real problems and push my skills further with every iteration.
 
-## Current Focus
+## Building
 
-* 🌱 PlantPulse Pro
-* 🤖 AI & Robotics Projects
-* ⚡ Full Stack Web Development
-* 🎨 UI/UX Design
-* 🚀 Startup & Product Development
+🌱 **PlantPulse Pro**
+AI-powered plant intelligence platform designed to help people understand and care for plants better.
 
-## Things I've Built
+📋 **Attendify**
+Modern attendance management system built for educational institutions.
 
-### PlantPulse Pro
+🤖 **Robotics & Automation**
+Industrial robotic arm projects, embedded systems, ESP32 development, computer vision, and automation experiments.
 
-An AI-powered plant monitoring ecosystem designed to help people understand and care for their plants better.
+⚛️ **Quantum OS**
+Experimental operating system concepts, interfaces, and system software exploration.
 
-### Attendify
+🎨 **Web Products**
+Designing and developing fast, scalable, and modern web applications using contemporary technologies.
 
-Attendance management platform built for educational institutions.
-
-### SMG Interactive
-
-Digital agency focused on web development, branding, and product design.
-
-### Quantum OS
-
-Experimental operating system concepts and system-level projects.
-
-### Academic Elitez
-
-Platform focused on helping students access opportunities and resources.
-
-## Tech I Use
+## Tech Stack
 
 ```txt
 Frontend    → Next.js, React, HTML, CSS, JavaScript
@@ -52,20 +37,26 @@ Hardware    → ESP32, Arduino, IoT Systems
 
 ## Achievements
 
-A collection of competitions, certifications, leadership roles, olympiads, hackathons and technical accomplishments can be found here:
+A collection of competitions, certifications, leadership positions, hackathons, olympiads, and technical accomplishments:
 
-→ https://www.pranab.xyz/achievements
+🔗 https://www.pranab.xyz/achievements
+
+## Current Interests
+
+* Artificial Intelligence
+* Robotics & Automation
+* Product Development
+* Full-Stack Engineering
+* Embedded Systems
+* Startup Building
 
 ## Philosophy
 
-Build.
-Ship.
-Improve.
-Repeat.
+Build. Ship. Improve. Repeat.
 
 Most people wait for the perfect idea.
 
-I prefer building the imperfect one today.
+I prefer building the imperfect one today and making it better tomorrow.
 
 ## GitHub Stats
 
@@ -77,13 +68,15 @@ I prefer building the imperfect one today.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranabsssssss&hide_border=true&theme=transparent" />
 </p>
 
-## Links
+## Connect
 
-Website → https://pranab.me
+🌐 Website → https://pranab.me
 
-Portfolio → https://pranab.xyz
+📂 Portfolio → https://pranab.xyz
 
-GitHub → https://github.com/Pranabsssssss
+🏆 Achievements → https://www.pranab.xyz/achievements
+
+💻 GitHub → https://github.com/Pranabsssssss
 
 ---
 
